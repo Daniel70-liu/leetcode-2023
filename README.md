@@ -12,7 +12,7 @@
 
 ## Solutions
 
-| Number | Acceptance | Title | Difficulty | Favorite |
-|:----:|:----:|:----:|:----:|:----:|
+| Number | Title | Difficulty | Favorite |
+|:----:|:----:|:----:|:----:|
 |[0001](https://leetcode.com/problems/two-sum/)|1. Two Sum
 |76%|easy||
