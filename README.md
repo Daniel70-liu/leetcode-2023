@@ -1,4 +1,4 @@
-# leetcode-2023
+# leetcode-2023 Python
 
 # Repository for the[LeetCode](https://leetcode.com) workshop 2023
 
@@ -14,5 +14,5 @@
 
 | Number | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|
-|[0001](https://leetcode.com/problems/two-sum/)|1. Two Sum|76%|easy||
+|[0001](https://leetcode.com/problems/two-sum/)|1. Two Sum|65%|easy||
 |[0009](https://leetcode.com/problems/palindrome-number/)|9. palindrome-number|74%|easy||
